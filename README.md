@@ -3,7 +3,6 @@
 📖 Computer Programming & Information Systems student at Farmingdale State College<br>
 📍 Long Island, New York<br>
 💻 Currently learning Web Development<br>
-⌛ Currently working on a Pomodoro Technique/Task Manager Web Application<br>
 
 
 ## 🌐 Socials:
