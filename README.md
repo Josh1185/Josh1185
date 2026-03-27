@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A full-stack software developer at Certus Controls</h3>
+<h3 align="center">A Software Engineer at Certus Controls</h3>
 
 - 🔭 I’m currently working on **An Enterprise Management Application**
 
