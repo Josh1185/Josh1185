@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **An Enterprise Management Application**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **iehlejosh@gmail.com**
 
