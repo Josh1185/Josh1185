@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **An Enterprise Management Application**
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **iehlejosh@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
