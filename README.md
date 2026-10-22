@@ -1,13 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Josh%20Iehle&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Josh1185">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Josh1185&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Josh1185's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Josh1185&theme=radical&hide_border=true&cache_seconds=86400" alt="Josh1185's GitHub Streak" width="49%" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
